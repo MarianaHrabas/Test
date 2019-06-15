@@ -1,0 +1,23 @@
+{
+  "name": "l8",
+  "version": "0.0.1",
+  "description": "my first js project",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js.html5",
+    "node",
+    "eshop"
+  ],
+  "author": "Mariana",
+  "license": "ISC"
+}
